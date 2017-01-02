@@ -1,0 +1,55 @@
+﻿  Rasterizer.cpp
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(109): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(114): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(173): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(174): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(219): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(220): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(224): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(225): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(226): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(250): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(251): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(278): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(279): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(288): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(295): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(296): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(297): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(298): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(312): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(313): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(315): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(465): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(495): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(496): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(441): warning C4101: 'clip': unreferenced local variable
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(564): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(566): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(567): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(607): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(608): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(609): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(610): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(611): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(612): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(613): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(614): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(622): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(623): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(632): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(633): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(640): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(646): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(647): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\year2\graphics 1\tinyraster\tinyraster\rasterizer.cpp(659): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  TinyRaster.vcxproj -> E:\Year2\graphics 1\TinyRaster\Debug\TinyRaster.exe
